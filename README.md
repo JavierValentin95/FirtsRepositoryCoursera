@@ -1,6 +1,7 @@
 # FirtsRepositoryCoursera
-First teste making a repository.
 
-Editing the file
+First time making a repository.
 
-It's a markdown file in this repository.
+I´m editing the file.
+
+There is a markdown file in this repository.
